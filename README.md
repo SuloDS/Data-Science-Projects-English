@@ -2,13 +2,13 @@
 This is the repo in which I post my data science, machine learning and deep learning projects
 # Projects :
 
- - [Sentiment analysis](https://github.com/SuloDS/Data-Science-Projects/blob/main/Analise_Sentimentos.ipynb)
- - [Sales analysis](https://github.com/SuloDS/Data-Science-Projects/blob/main/Analise_Vendas.ipynb)
- - [Machine Learning: Regression Analysis With Covid 19 data](https://github.com/SuloDS/Data-Science-Projects/blob/main/Covid%2019.ipynb)
- - [Machine learning: Predicting the occurrence of diabetes](https://github.com/SuloDS/Data-Science-Projects/blob/main/Previsao%20de%20Diabete.ipynb)
- - [Machine learning:buying propensity](https://github.com/SuloDS/Data-Science-Projects/blob/main/Algoritmo%20de%20propens%C3%A3o%20de%20compra%20de%20Usu%C3%A1rios%20de%20E-Commerce.ipynb)
- - [Cancer Diagnosis: Neural Network](https://github.com/SuloDS/Data-Science-Projects/blob/main/Rede%20Neural%20com%20Programa%C3%A7%C3%A3o%20e%20Matem%C3%A1tica.ipynb)
- - [Anime recommendation system](https://github.com/SuloDS/Data-Science-Projects/blob/main/Sistema%20de%20Recomendacao%20de%20Animes.ipynb)
+ - [Sentiment analysis](https://github.com/SuloDS/Data-Science-Projects-English/blob/main/Sentiment%20Analysis.ipynb)
+ - [Sales analysis](https://github.com/SuloDS/Data-Science-Projects-English/blob/main/Sales%20Analysis.ipynb)
+ - [Machine Learning: Regression Analysis With Covid 19 data](https://github.com/SuloDS/Data-Science-Projects-English/blob/main/Machine%20Learning%20-%20Regression%20Analysis%20With%20Covid%2019%20data.ipynb)
+ - [Machine learning: Predicting the occurrence of diabetes](https://github.com/SuloDS/Data-Science-Projects-English/blob/main/Machine%20learning%20-%20Predicting%20the%20occurrence%20of%20diabetes.ipynb)
+ - [Machine learning:buying propensity](https://github.com/SuloDS/Data-Science-Projects-English/blob/main/Machine%20learning%20-%20buying%20propensity.ipynb)
+ - [Cancer Diagnosis: Neural Network](https://github.com/SuloDS/Data-Science-Projects-English/blob/main/Cancer%20Diagnosis%20-%20Neural%20Network.ipynb)
+ - [Anime recommendation system](https://github.com/SuloDS/Data-Science-Projects-English/blob/main/Anime%20recommendation%20system.ipynb)
 
  
  # About me :
